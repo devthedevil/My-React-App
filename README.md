@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 
 
-  <h3 align="center">Memetoll</h3>
+  
 
   <p align="center">
     An app made with React Native and firebase
